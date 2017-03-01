@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Akaash'
-SITENAME = 'My dOPE AF Data Blog'
+SITENAME = 'My Data Blog'
 SITEURL = ''
 
 PATH = 'content'
@@ -34,4 +34,4 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = "pelican-themes/gum"
+# THEME = "pelican-themes/gum"
